@@ -1,5 +1,5 @@
-# neuralimagemodel
-Train a neural model to classify images
+# Train a neural model to classify images
+I recommend running on a python virtualenv, just install the requirements and you are good to go!
 
 First you run the code below to download the dataset to your local machine
 ```python
